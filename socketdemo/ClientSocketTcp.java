@@ -10,6 +10,12 @@ import java.net.ConnectException;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
+/**
+ * @program: classprogram
+ * @Description: ClientSockeTcp
+ * @author: chun
+ * @date: 2019/12/2 下午
+ */
 public class ClientSocketTcp {
     public static void main(String[] args) {
         String message = "今天天气真好!";
